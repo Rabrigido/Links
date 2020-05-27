@@ -1,0 +1,10 @@
+calculo 3,c1,lunes,https://reuna.zoom.us/meeting/94942272301occurrence=1588600800000
+calculo 3,c1,jueves,https://reuna.zoom.us/meeting/93097981823?occurrence=1588284000000
+calculo 3,c1,viernes,https://reuna.zoom.us/meeting/92984417417?occurrence=1588946400000
+edo,c1,lunes,https://reuna.zoom.us/meeting/96821395193?occurrence=1588608000000
+edo,c1,martes,https://reuna.zoom.us/meeting/91359006658?occurrence=1588104000000
+edo,c1,viernes,https://reuna.zoom.us/meeting/96489264827?occurrence=1588951800000
+programacion avanzada,c2,martes,https://reuna.zoom.us/j/95109168108?pwd=eW1nVURqS3lyTW5UUHp2OFNlWlgvZz09
+programacion avanzada,c2,jueves,https://reuna.zoom.us/j/99610007006?pwd=UDhRY1BmZUxyU2JqOW9vaXJCOHAzZz09
+ayudantia proyecto 2,c1,miercoles,https://reuna.zoom.us/j/97989985420?pwd=YUozU1FET3ovUjFScXBuamF3OHNSZz09
+
